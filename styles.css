@@ -15,10 +15,10 @@
 #list-left-bottom {
 	display: block;
 	position: relative;
-	left: 400px;
+	left: 260px;
 	height: 5px;
 	width: 5px;
-	bottom: 100px
+	top: 284px
 
 }
 
@@ -31,5 +31,11 @@ ul {
 	
 
 #display-container{
+	border: 2px solid purple;	
+	height: 400px;
+	width: 400px;
+	position:relative;
+	bottom:350px;
+	left: 150px;
 
 }
