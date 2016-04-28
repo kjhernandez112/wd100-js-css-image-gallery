@@ -1,0 +1,35 @@
+.list-image img {
+	height: 100px;
+	width: 100px;
+	display: inline;
+
+}
+
+#list-top {
+	position: relative;
+    left: 50px;
+    display: inline-flex;
+
+}
+
+#list-left-bottom {
+	display: block;
+	position: relative;
+	left: 400px;
+	height: 5px;
+	width: 5px;
+	bottom: 100px
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+}
+	
+
+#display-container{
+
+}
