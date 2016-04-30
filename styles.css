@@ -2,7 +2,6 @@
 	height: 100px;
 	width: 100px;
 	display: inline;
-
 }
 
 #list-top {
@@ -13,20 +12,16 @@
 }
 
 #list-left-bottom {
-	display: block;
-	position: relative;
+	position: absolute;
 	left: 260px;
 	height: 5px;
 	width: 5px;
-	top: 284px
-
+	top: 395px;
 }
 
 
 ul {
     list-style-type: none;
-    margin: 10;
-    padding: 10;
 }
 	
 
@@ -37,5 +32,9 @@ ul {
 	position:relative;
 	bottom:350px;
 	left: 150px;
+}
 
+#display{
+	height: 400px;
+	width: 400px;
 }
